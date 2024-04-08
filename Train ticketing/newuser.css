@@ -1,0 +1,33 @@
+.reg{
+    text-align: center;
+    background-color:   coral;
+
+
+}
+
+
+.enter{
+    border:3px solid white;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.head{
+    text-align: center;
+    background-color: blanchedalmond;
+    margin-left: 400px;
+    margin-right:400px;
+    padding-bottom: 10px;
+   
+}
+.details{
+    margin-top: 20px;
+   
+}
+.sub{
+    text-align: center;
+    background-color: rgb(92, 92, 202);
+    border:solid silver;
+    margin-left:650px;
+    margin-right:650px;
+    margin-top:10px;
+}

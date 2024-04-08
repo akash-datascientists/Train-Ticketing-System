@@ -1,0 +1,39 @@
+.top{
+    text-align: center;
+    background-color: beige;
+    margin-left: 400px;
+    margin-right:400px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.border{
+
+    border: 2px solid white;
+    margin-left: 180px;
+    margin-right:180px;
+    font-size: 10px;
+}
+.items{
+    margin-top: 10px;
+    font: size 20px;
+}
+.submit{
+    text-align: center;
+    background-color: rgb(92, 92, 202);
+    border:solid silver;
+    margin-left:650px;
+    margin-right:650px;
+    margin-top:10px;
+}
+.first{
+    text-align: center;
+    font-size: 30px;
+
+  
+    background-color:  brown;
+    margin-left: 600px;
+    margin-right:600px;
+    border-radius: 50px;
+    
+}
